@@ -1,1 +1,1 @@
-alert("SOYEZ LE BIENVENU")
+alert("SOYEZ LE ou LA BIENVENUE")
