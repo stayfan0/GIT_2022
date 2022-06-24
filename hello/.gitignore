@@ -1,0 +1,5 @@
+*html 
+# ignore tous les fichiers qui ont pour extentions html
+
+contact.html
+# ignore le fichier contact 
